@@ -12,13 +12,20 @@
 </p>
 
 ---
+### 🔭 I’m currently working on
+**personal tools and game mods**
 
-- 🔭 I’m currently working on **personal tools and game mods**
-- 🌱 I’m currently learning **Java**, **C#**, and **low-level engine logic**
-- 👯 I’m looking to collaborate on **game modding**, **cool experimental tools**, and **open-source game dev**
-- 💬 Ask me about **Unity**, **CS2 plugins**, or **Minecraft modding**
-- 📫 Reach me on **Discord: `kedinecmi`**
-- ⚡ Fun fact: **My cat might be watching you right now.**
+### 🌱 I’m currently learning
+**Java**, **C#**, and **low-level engine logic**
+
+### 👯 I’m looking to collaborate on
+**game modding**, **cool experimental tools**, and **open-source game dev**
+
+### 💬 Ask me about
+**Unity**, **CS2 plugins**, or **Minecraft modding**
+
+### 📫 Reach me on
+**Discord: `kedinecmi`**
 
 ---
 
