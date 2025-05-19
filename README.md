@@ -1,8 +1,12 @@
 # 💫 Hakkımda:
 🔭 Şu anda **kişisel araçlar ve oyun modları** geliştiriyorum
+
 🌱 **Java**, **C#** ve **düşük seviyeli oyun motoru mantığı** öğreniyorum
+
 👯 **Oyun modlama**, **deneysel araçlar** ve **açık kaynak oyun geliştirme** konularında işbirliğine açığım
+
 💬 **Unity**, **CS2 eklentileri** veya **Minecraft modlama** hakkında bana sorabilirsin
+
 📫 Bana ulaş: **Discord: `kedinecmi`**
 
 
