@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, ben Necmi</h1>
-<h3 align="center">Türkiye'den Bağımsız geliştiriciyim</h3>
+<h3 align="center">Türkiye’den bağımsız bir geliştirici olarak oyun modları ve araçlar geliştiriyorum.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kknecmi&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="kknecmi" />
