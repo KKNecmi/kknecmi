@@ -12,22 +12,17 @@
 </p>
 
 ---
-### 🔭 I’m currently working on
-**personal tools and game mods**
 
-### 🌱 I’m currently learning
-**Java**, **C#**, and **low-level engine logic**
+### 💼 About Me
 
-### 👯 I’m looking to collaborate on
-**game modding**, **cool experimental tools**, and **open-source game dev**
-
-### 💬 Ask me about
-**Unity**, **CS2 plugins**, or **Minecraft modding**
-
-### 📫 Reach me on
-**Discord: `kedinecmi`**
+🔭 I’m currently working on **personal tools and game mods**  
+🌱 Learning **Java**, **C#**, and **low-level engine logic**  
+👯 Looking to collaborate on **game modding**, **experimental tools**, and **open-source game dev**  
+💬 Ask me about **Unity**, **CS2 plugins**, or **Minecraft modding**  
+📫 Reach me on **Discord: `kedinecmi`**  
 
 ---
+
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
