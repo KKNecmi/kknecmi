@@ -3,11 +3,11 @@
 
 🌱 Learning **Java** and **C#**
 
-👯 Open to collaboration on **game modding**, **experimental tools** and **open source game development**
+<!--👯 Open to collaboration on **game modding**, **experimental tools** and **open source game development**-->
 
-💬 Ask me about **Unity**, **CS2 plugins** or **Minecraft modding**
+<!--💬 Ask me about **Unity**, **CS2 plugins** or **Minecraft modding**-->
 
-📫 Reach me at: **Discord: `kedinecmi`**
+<!--📫 Reach me at: **Discord: `kedinecmi`**-->
 
 
 # 💻 Tech Stack:
